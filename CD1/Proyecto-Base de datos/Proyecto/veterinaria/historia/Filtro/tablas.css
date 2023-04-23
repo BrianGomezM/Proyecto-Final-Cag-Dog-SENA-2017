@@ -1,0 +1,16 @@
+#submit{
+text-decoration:none;
+width:100px;
+margin: 10px 0px;
+text-align:center;
+display:block;
+background-color:#fff;
+color:#238276;
+border:1px solid #Fc7323;
+font-size:12px;
+cursor:pointer;
+border-radius:10px;
+ padding: 6px;
+ box-sizing: border-box;
+ transition: all 500ms ease;
+ }

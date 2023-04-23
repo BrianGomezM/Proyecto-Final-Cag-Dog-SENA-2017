@@ -1,0 +1,9 @@
+[18-Feb-2016 12:50:04 America/Bogota] PHP Notice:  Undefined index: tratamiento in /home/sespa/public_html/historia/descargar/ver.php on line 4
+[18-Feb-2016 12:50:34 America/Bogota] PHP Notice:  Undefined index: tratamiento in /home/sespa/public_html/historia/descargar/ver.php on line 4
+[12-Apr-2016 12:09:00 America/Bogota] PHP Parse error:  syntax error, unexpected '[' in /home/sespa/public_html/historia/descargar/ver.php on line 51
+[12-Apr-2016 12:09:48 America/Bogota] PHP Parse error:  syntax error, unexpected '[' in /home/sespa/public_html/historia/descargar/ver.php on line 40
+[12-Apr-2016 12:11:13 America/Bogota] PHP Parse error:  syntax error, unexpected '[' in /home/sespa/public_html/historia/descargar/ver.php on line 40
+[12-Apr-2016 12:12:49 America/Bogota] PHP Parse error:  syntax error, unexpected '[' in /home/sespa/public_html/historia/descargar/ver.php on line 40
+[12-Apr-2016 12:14:10 America/Bogota] PHP Notice:  Undefined variable: Gomez1 in /home/sespa/public_html/historia/descargar/ver.php on line 34
+[12-Apr-2016 12:14:10 America/Bogota] PHP Notice:  Undefined variable: Gomez1 in /home/sespa/public_html/historia/descargar/ver.php on line 34
+[12-Apr-2016 12:14:10 America/Bogota] PHP Notice:  Undefined variable: Gomez1 in /home/sespa/public_html/historia/descargar/ver.php on line 34

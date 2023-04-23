@@ -1,0 +1,51 @@
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/sespa/public_html/include/conex.php on line 4
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sespa/public_html/include/conex.php on line 8
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_real_escape_string(): Access denied for user 'sespa'@'localhost' (using password: NO) in /home/sespa/public_html/login.php on line 9
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/sespa/public_html/login.php on line 9
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_real_escape_string(): Access denied for user 'sespa'@'localhost' (using password: NO) in /home/sespa/public_html/login.php on line 9
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/sespa/public_html/login.php on line 9
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_query(): Access denied for user 'sespa'@'localhost' (using password: NO) in /home/sespa/public_html/login.php on line 9
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sespa/public_html/login.php on line 9
+[16-Feb-2016 07:11:16 America/Bogota] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/sespa/public_html/login.php on line 10
+[16-Feb-2016 07:18:29 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sespa/public_html/recuperar.php on line 60
+[16-Feb-2016 07:31:13 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 07:31:13 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 08:33:18 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 08:33:18 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:09:50 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:09:50 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:09:59 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:09:59 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:10:02 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:10:02 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:10:43 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/sespa/public_html/reg_recor.php on line 53
+[16-Feb-2016 09:10:43 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:10:43 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:12:45 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:12:45 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:12:54 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:12:54 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:13:28 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:13:28 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:13:30 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 09:13:30 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 12:13:51 America/Bogota] PHP Notice:  Undefined index: user in /home/sespa/public_html/principal.php on line 4
+[16-Feb-2016 12:16:11 America/Bogota] PHP Notice:  Undefined index: msn_recu in /home/sespa/public_html/recuperar.php on line 4
+[16-Feb-2016 12:16:11 America/Bogota] PHP Notice:  Undefined index: num_recu in /home/sespa/public_html/recuperar.php on line 5
+[16-Feb-2016 12:36:09 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 12:36:09 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 12:36:16 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[16-Feb-2016 12:36:16 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:49:37 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:49:37 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:49:42 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:49:42 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:49:47 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:49:47 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:50:18 America/Bogota] PHP Notice:  Undefined offset: 0 in /home/sespa/public_html/reg_recor.php on line 53
+[17-Feb-2016 07:50:18 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:50:18 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:50:22 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:50:22 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:50:26 America/Bogota] PHP Notice:  Undefined variable: query in /home/sespa/public_html/reg_recor.php on line 118
+[17-Feb-2016 07:50:26 America/Bogota] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, null given in /home/sespa/public_html/reg_recor.php on line 118

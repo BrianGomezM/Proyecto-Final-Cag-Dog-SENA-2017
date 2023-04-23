@@ -1,0 +1,8 @@
+///////////Base de Datos vacia y llena////////////////////////
+
+Para ingresar al programa como administrador se logea con este correo y contraseña:
+
+Correo:user@hotmail.com
+Clave:sena
+
+

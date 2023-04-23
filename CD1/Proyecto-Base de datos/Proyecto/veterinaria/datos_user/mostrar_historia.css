@@ -1,0 +1,33 @@
+
+#subt4 {
+ 
+text-decoration:none;
+width:35%;
+
+display:block;
+background-color:#fff;
+color:#238276;
+border:1px solid #fc7323;
+padding:5px 0;
+font-size:11px;
+
+border-radius:10px
+}
+.styled-select select {
+   background: transparent;
+   width: 210px;
+   padding: 5px;
+   font-size: 16px;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+   height: 34px;
+   -webkit-appearance: none;
+   }
+.styled-select {
+   width: 210px;
+   height: 34px;
+   overflow: hidden;
+   background: url(down_arrow_select.jpg) no-repeat right #ddd;
+   border: 1px solid #ccc;
+   }

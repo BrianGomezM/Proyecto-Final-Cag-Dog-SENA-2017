@@ -1,0 +1,54 @@
+Bienvenidos en la siguiente guia epecificamos los pasos para realizar la istalacion del proyecto CAT&DOG
+
+PASO 1
+
+Instalar appserverv mirar el video: Paso 1 Instalar AppServ.
+
+paso 2
+
+Les voy a enseñar a copiar los archivos del proyecto CAT&DOG a appserver 
+
+1) Copiar del CD1, la carpeta proyecto.
+
+2) Pegar los archivos en la siguiente dirrecion: C\AppServev/www.
+
+3) Para comprobar el funcionamiento nos diriguimos al navegador y ingresamos el siguiente
+
+link: http://localhost/proyecto/veterinaria/
+
+y listo hemos instalado el proyecto en nuestro ordenador. :)
+
+
+paso 3
+
+Les voy a enseñar a como subir la base de datos a appserv- para el programa Cat&Dog...
+
+
+Recomendacion:Nos aseguramos que el appserv ya se encuentre instado en nuestro ordenador, 
+si no se encuentra instalado  dirijase al CD2 para instalar el appserv....
+
+
+1)Para subir la base datos nos dirigimos al navegador al siguiente direcion:http://localhost/phpmyadmin/
+
+2)Al ingresar a la pagina colocamos de usuario root y la clave es la que puso por defecto cuando instalo el appserv.
+
+3)Se seleciona nueva..y colocamos el nombre de la base datos sespa_veterinaria y cotejamiento utf8mb4_spanish_ci
+
+4)selecionamos la opcion importar luego clik en selecionar archivo al cual nos dirigimos al 
+
+cd1/proyecto-Base de datos/Base de Datos/sespa_veterinaria.sql selecionamos sespa_veterinaria y clik abrir
+
+luego por ultimo continuar.
+
+5)ya exportas la base de datos en el appserv
+
+Listo ya tenemos la base datos importada en el appserv :)
+
+finalmente ya podemos trabajar en el aplicativo CAT&DOG. 
+
+
+
+
+
+
+ 

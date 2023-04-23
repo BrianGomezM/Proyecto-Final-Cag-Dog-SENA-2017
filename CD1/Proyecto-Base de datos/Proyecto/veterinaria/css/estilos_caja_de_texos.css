@@ -1,0 +1,180 @@
+/* Cajas De Texto y iconos del Login */
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'icomoon';
+	src:url('fonts/icomoon/icomoon.eot?i64fx9');
+	src:url('fonts/icomoon/icomoon.eot?#iefixi64fx9') format('embedded-opentype'),
+		url('fonts/icomoon/icomoon.woff?i64fx9') format('woff'),
+		url('fonts/icomoon/icomoon.ttf?i64fx9') format('truetype'),
+		url('fonts/icomoon/icomoon.svg?i64fx9#icomoon') format('svg');
+}
+
+.icon-close {
+	z-index: 100;
+	display: block;
+	overflow: hidden;
+	width: 3em;
+	height: 3em;
+	text-align: center;
+	line-height: 3;
+	cursor: pointer;
+}
+
+.icon:before {
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-family: 'icomoon';
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-camera:before {
+	content: "\e017";
+}
+
+.icon-server:before {
+	content: "\e022";
+}
+
+.icon-heart:before {
+	content: "\e024";
+}
+
+.icon-zoom-in:before {
+	content: "\e037";
+}
+
+.icon-microphone:before {
+	content: "\e048";
+}
+
+.icon-cloud:before {
+	content: "\e066";
+}
+
+.icon-user:before {
+	content: "\e074";
+}
+
+.icon-briefcase:before {
+	content: "\e075";
+}
+
+.icon-globe:before {
+	content: "\e078";
+}
+
+.icon-cog::before {
+	content: "\e600";
+}
+
+.icon-close::before {
+	content: "\e601";
+}
+
+.icon-play::before {
+	content: "\e602";
+}
+
+.icon-pause::before {
+	content: "\e603";
+}
+
+.icon-close {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+/* Style for form modal */
+.content-style-form {
+	position: relative;
+	text-align: left;
+}
+
+.content-style-form h2 {
+	margin: 0;
+	padding: 0.4em 0 0.3em;
+	text-align: center;
+	font-weight: 200000;
+	font-size: 1.5em;
+}
+
+.content-style-form form {
+	padding: 10px 30px;
+}
+
+.content-style-form form p {
+	margin: 0 0 5px 0;
+	font-size: 0.7em;
+}
+
+.content-style-form label {
+	display: block;
+	padding: 10px 0 0;
+	color: #fc7323;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+.content-style-form input[type="email"],
+.content-style-form input[type="number"],
+.content-style-form input[type="password"] {
+	padding: 10px;
+	width: 100%;
+	border: 2px solid #ebd3bd;
+	background: transparent;
+	color: #b09a86;
+	font-weight: 300;
+	font-size: 2.2em;
+}
+
+.content-style-form input:focus {
+	outline: 10;
+}
+
+.content-style-form button {
+	display: block;
+	margin-top: 2.5em;
+	padding: 1.5em;
+	width: 100%;
+	border: none;
+	background: #238276;
+	color: #f9f6e5;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 800;
+	font-size: 1.25em;
+}
+.sb{
+	display: block;
+	margin-top: 2.5em;
+	padding: 1.5em;
+	width: 100%;
+	border: none;
+	background: #238276;
+	color: #f9f6e5;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 800;
+	font-size: 1.25em;
+}
+
+.content-style-form .icon-close {
+	top: 0;
+	right: 0;
+	color: #B40404;
+	font-size: 85%;
+}
+
+.content-style-form .icon-close:hover {
+	color: #e75854;
+}
